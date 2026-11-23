@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35248196/README.md)
 # Hi, I'm Kareem 👋
 
 I'm a Computer Science junior at **St. Francis College** in Brooklyn, originally from **Egypt** and now building my life (and my code) in **New York City**.
