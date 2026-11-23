@@ -48,5 +48,5 @@ I'm just getting started on GitHub, and I'm using it to document my learning in 
 
 <p align="center"><i>"Every expert was once a beginner."</i></p>
 
-- ⚡ Fun fact: ...
+
 -->
