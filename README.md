@@ -32,6 +32,7 @@ Moving across the world taught me how to adapt, ask questions, and figure things
 | Project | What it does | Built with |
 |---|---|---|
 | 🍽️ [crowdsense](https://github.com/predator56200/crowdsense) | Real-time restaurant busyness from anonymous location signals, with Bayesian estimates, ML forecasts, a live dashboard, and a mobile app | Python, FastAPI, React, TypeScript, PostgreSQL, Redis, XGBoost |
+| 🛡️ [cloudguard](https://github.com/predator56200/cloudguard) | *(In progress)* An AWS security startup idea. The foundations are done: API, worker, database migrations, dashboard shell, CI, and 29 tests | Python, FastAPI, Next.js, PostgreSQL, Docker, GitHub Actions |
 | 🔍 [hash-checker](https://github.com/predator56200/hash-checker) | A forensics tool that fingerprints files with SHA-256 and detects anything modified, deleted, or added | Python, hashlib |
 | 🗄️ [student-database](https://github.com/predator56200/student-database) | A relational database of students, courses, and enrollments, with 9 SQL queries from JOINs to subqueries | SQL, SQLite, Python |
 | 🐍 [python-projects](https://github.com/predator56200/python-projects) | Programs from my Python course: a grade calculator, a guessing game, and a to-do list that saves to a file | Python |
@@ -48,8 +49,8 @@ Moving across the world taught me how to adapt, ask questions, and figure things
 ## 📫 Let's connect
 
 - GitHub: [@predator56200](https://github.com/predator56200)
-- LinkedIn: *https://www.linkedin.com/in/kareem-ebrahem-48aa39204/*
-- Email: *nabawykareem7@gmail.com*
+- LinkedIn: [Kareem Ebrahem](https://www.linkedin.com/in/kareem-ebrahem-48aa39204/)
+- Email: [nabawykareem7@gmail.com](mailto:nabawykareem7@gmail.com)
 
 ---
 
