@@ -21,30 +21,12 @@ Moving across the world taught me how to adapt, ask questions, and figure things
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 🚧 Currently Building
+## 📂 Projects
 
-I'm just getting started on GitHub, and I'm using it to document my learning in public. Here's what's on the way:
+| Project | What it does | Built with |
+|---|---|---|
+| 🔍 [hash-checker](https://github.com/predator56200/hash-checker) | A forensics tool that fingerprints files with SHA-256 and detects anything modified, deleted, or added | Python, hashlib |
+| 🗄️ [student-database](https://github.com/predator56200/student-database) | A relational database of students, courses, and enrollments, with 9 SQL queries from JOINs to subqueries | SQL, SQLite, Python |
+| 🐍 [python-projects](https://github.com/predator56200/python-projects) | Programs from my Python course: a grade calculator, a guessing game, and a to-do list that saves to a file | Python |
 
-- 🐍 **Python practice projects**: small programs that grow with my skills
-- 🗄️ **A database design project**: a schema, sample data, and the SQL queries to explore it
-- 🔍 **A file integrity checker**: a beginner forensics tool that uses hashing to detect changed files
-
-*Check back soon. This page grows as I do.*
-
-## 🌍 A little more about me
-
-- 🗣️ I speak **Arabic** and **English**
-- 🌱 I'm always learning, and I'm not afraid to say "I don't know yet"
-- 💼 Open to **internships** and collaboration on student projects
-- ⚡ Balancing two worlds, Cairo and New York, and finding the best of both
-
-## 📫 Let's connect
-
-- GitHub: [@predator56200](https://github.com/predator56200)
-- LinkedIn: *add your link here*
-- Email: *add your email here*
-
----
-
-<p align="center"><i>"Every expert was once a beginner."</i></p>
-
+*I'm using GitHub to document my learning in public, so this list grows as I do.*
